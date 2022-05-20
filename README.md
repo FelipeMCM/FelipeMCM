@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FelipeMCM;
-- 👀 I’m interested in Java and UI Design;
-- 🌱 I’m currently learning Java;
-- 💞️ I’m looking to collaborate on my programa that named by wowo;
-- 📫 Contato -> via Instagram @l1p3fe
+- 👋 Hi, I’m Felipe;
+- 👀 I’m interested in Java, Python, Design, Cloud;
+- 🌱 I’m currently learning Java, Python and Chinese language;
+- 💞️ I'm currently in a graduation of Information Systems;
+- 📫 Contact -> via Instagram @l1p3fe;
 
 <!---
 FelipeMCM/FelipeMCM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
